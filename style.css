@@ -80,3 +80,10 @@ form .exchange-rate{
     font-size: 17px;
     margin: 20px 0 30px;
 }
+form button{
+    height: 52px;
+    color: #fff;
+    font-size: 17px;
+    cursor: pointer;
+    background: #675AFE;
+}
